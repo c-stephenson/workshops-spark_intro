@@ -1,2 +1,4 @@
 # workshops-spark_intro
-Introductory Spark workshop - IPYNB notebook and data 
+Introductory Spark workshops - IPYNB notebooks and data  
+* Intro I - foo
+* Tidy Data II - bar
