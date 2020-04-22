@@ -11,7 +11,7 @@ Covers some core concepts using Spark for data analysis including:
 * Caching data for performance
 
 ## II - Tidy Data
-Demonstrates the concept of "Tidy Data" using example code in Apache Spark and five common types of untidy data:
+Demonstrates the concept of "Tidy Data" using example code in Apache Spark and tidying five common types of untidy data:
 * Column headers are values, not variable names. 
 * Multiple variables are stored in one column. 
 * Variables are stored in both rows and columns.  
