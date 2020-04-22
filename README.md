@@ -3,14 +3,14 @@ Introductory workshops in Apache Spark with Python (pyspark) and SQL (Spark SQL)
 
 __Note:__ file paths in notebooks will require updating
 
-## Intro I
+## I - Intro
 Covers some core concepts using Spark for data analysis including:
 * Loading data
 * Spark SQL & basic data transformations
 * Writing data
 * Caching data for performance
 
-## Tidy Data II
+## II - Tidy Data
 Demonstrates the concept of "Tidy Data" using example code in Apache Spark and five common types of untidy data:
 * Column headers are values, not variable names. 
 * Multiple variables are stored in one column. 
