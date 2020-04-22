@@ -1,5 +1,5 @@
 # workshops-spark_intro
-Introductory workshops in Apache Spark with Python (pyspark) and SQL (Spark SQL). Repository includes IPYNB notebooks and data.
+Introductory workshops for beginners in Apache Spark with Python (pyspark) and SQL (Spark SQL). Repository includes IPYNB notebooks and data.
 
 __Note:__ file paths in notebooks will require updating
 
